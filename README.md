@@ -4,20 +4,13 @@
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦄 **Desarrollador/a: SAMUEL ARANDIA  
+- 🐇 **Link a red social:** *https://instagram.com/samuel_arandia*
+- 🦾 **Perfil:* *Medio*
+- 💬 **Un comentario breve o frase ingeniosa**: think twice, code one 
 
 ## Observaciones
 
-*Escribe aquí tus observaciones sobre la implementación*
+Reto basado en crear una carta de presentación, el fondo de pantalla es una foto tomada por mi en la patagonia chilena.
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
-
----
-*Puedes borrar todo desde esta línea en adelante*
-
----
-
-Recuerda cambiar el título del repo, los datos y desplegar la versión en GitHub Pages e indicar la URL en la esquina superior derecha de tu repositorio de GitHub, junto a una pequeña descripción.
