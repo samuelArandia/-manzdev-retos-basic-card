@@ -13,4 +13,9 @@
 
 Reto basado en crear una carta de presentación, el fondo de pantalla es una foto tomada por mi en la patagonia chilena.
 
+Adjunto captured de page terminada. 
+
+Thanks
+
+
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
