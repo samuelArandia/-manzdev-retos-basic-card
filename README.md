@@ -15,6 +15,8 @@ Reto basado en crear una carta de presentación, el fondo de pantalla es una fot
 
 Adjunto captured de page terminada. 
 
+![Image text](https://github.com/samuelArandia/-manzdev-retos-basic-card/blob/main/src/assets/finish.png)
+
 Thanks
 
 
